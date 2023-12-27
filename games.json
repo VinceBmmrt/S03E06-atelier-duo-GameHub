@@ -1,0 +1,27 @@
+[
+  {
+    "name": "fourchette",
+    "title": "Jeu de la fourchette",
+    "cssFile": null,
+    "jsFile": "fourchette.js"
+  },
+  {
+    "name": "diceRoller",
+    "title": "Dice Roller",
+    "cssFile": "diceRoller.css",
+    "jsFile": "diceRoller.js"
+  },
+  {
+    "name": "invader",
+    "title": "Invader : The game",
+    "cssFile": "invader.css",
+    "jsFile": "invader.js"
+  },
+  {
+    "name": "michelSardou",
+    "title": "Michel Sardou : Le jeu",
+    "cssFile": null,
+    "jsFile": null
+  }
+  
+]
